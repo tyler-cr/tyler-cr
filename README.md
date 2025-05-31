@@ -6,7 +6,7 @@
 
 ## 🛠️ What I Do
 
-- 🔙 **Backend engineering** in **C**, **Python**, and **Go**
+- 🔙 Backend engineering in **C**, **Python**, and **Go**
 - ☁️ Cloud tooling w/ **AWS**, **Azure**, and **RESTful APIs**
 - 🔍 Building tools, scrapers, and search systems that make data *behave*
 - 🎮 Procedural game dev w/ Lua + Love2D (dungeon crawlers are my jam)
