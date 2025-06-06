@@ -24,7 +24,7 @@
 
 ## 🧩 Why P vs NP?
 
-I’m captivated by computational complexity and obsessed with solving problems that *shouldn’t* be easy (and because I made a bet with my gf about chess).
+I’m captivated by computational complexity and obsessed with solving problems that *shouldn’t* be easy (and because I made a bet with my gf).
 
 ---
 
