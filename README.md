@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Tyler Crimando
 
-🎓 CS + Film grad | 🔧 Backend Developer | ♟️ Chess Educator | 🧠 P vs NP Daydreamer  
+🎓 CS + Film grad | 🔧 Everything Developer | ♟️ Teacher and Educator | 🧠 P vs NP Daydreamer  
 
 ---
 
 ## 🛠️ What I Do
 
-- 🔙 Backend engineering in **C**, **Python**, and **Go**
+- 🔙 Programming in **C**, **Python**, and **Go**
 - ☁️ Cloud tooling w/ **AWS**, **Azure**, and **RESTful APIs**
 - 🔍 Building tools, scrapers, and search systems that make data *behave*
 - 🎮 Procedural game dev w/ Lua + Love2D (dungeon crawlers are my jam)
